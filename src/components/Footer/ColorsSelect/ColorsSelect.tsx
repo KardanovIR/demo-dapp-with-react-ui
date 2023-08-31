@@ -12,6 +12,7 @@ const defaultColors = {
             background: '#31A6F5',
             foreground: '#FFFFFF'
         },
+        telegramButton: '#31A6F5',
         accent: '#31A6F5',
         icon: {
             primary: '#0F0F0F',
@@ -23,7 +24,9 @@ const defaultColors = {
         background: {
             primary: '#FFFFFF',
             secondary: '#F1F3F5',
-            segment: '#262629'
+            segment: '#262629',
+            tint: '#262629',
+            qr: '#262629'
         },
         text: {
             primary: '#0F0F0F',
@@ -39,6 +42,7 @@ const defaultColors = {
             background: '#31A6F5',
             foreground: '#FFFFFF'
         },
+        telegramButton: '#31A6F5',
         accent: '#E5E5EA',
         icon: {
             primary: '#E5E5EA',
@@ -50,7 +54,9 @@ const defaultColors = {
         background: {
             primary: '#121214',
             secondary: '#18181A',
-            segment: '#262629'
+            segment: '#262629',
+            tint: '#262629',
+            qr: '#262629'
         },
         text: {
             primary: '#E5E5EA',
